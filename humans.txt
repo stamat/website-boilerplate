@@ -1,0 +1,29 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  CEO, Developer and Designer: Nikola Stamatović Stamat
+  Site: http://stamat.info
+  Twitter: @stamat
+  Location: Belgrade, Serbia
+  
+  COO, Database Architect, Developer: Maletić Marko
+  Location: Belgrade, Serbia
+  
+  CTO, System Administrator, Developer: Damir Veapi
+  Twitter: @peacegiverman
+  Location: Belgrade, Serbia
+  
+  CSO, Computer Scientist, Low level Developer: Nemanja Stojanović
+  Twitter: @migimunz
+  Location: Belgrade, Serbia
+
+/* THANKS */
+  HTML5 Boilerplate - http://html5boilerplate.com/
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Wordpress, gEdit
+
